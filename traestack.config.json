@@ -1,0 +1,23 @@
+{
+  "skillsDir": "skills",
+  "entrySkills": {
+    "core": [
+      "office-hours",
+      "investigate",
+      "review",
+      "qa",
+      "ship"
+    ],
+    "browserRouter": "traestack",
+    "browserSession": "open-traestack-browser",
+    "upgrade": "traestack-upgrade"
+  },
+  "docs": {
+    "skillsIndex": "skills/README.md",
+    "routing": "skills/ROUTING.md",
+    "navigationZhCN": "skills/NAVIGATION.zh-CN.md",
+    "deliverySummary": "skills/DELIVERY-SUMMARY.md",
+    "repoOfficeHours": "OFFICE-HOURS.zh-CN.md"
+  }
+}
+
